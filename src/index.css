@@ -142,7 +142,7 @@ input {
 }
 
 .american {
-  background-image: url("./img//bener.avif");
+
   background-size: cover;
   height: 15px;
   width: 20px;
@@ -226,7 +226,7 @@ input {
 }
 
 .main {
-  background-image: url("./img/Amazon_Banner.png");
+
   height: 400px;
   background-size: cover;
   display: flex;
